@@ -9,13 +9,13 @@ En este examen se espera:
 * Animations and Gestures.
 
 
-###### dddd ###### 
+############ 
 * Colocar el código en repositorio git y compartir el enlace.
 * Tener Readme
 
 
 
-###### dddd ######
+############
 Para simular y poder realizar los ejercicios, debe consumir los datos a partir de https://reqres.in.
 
 * Maquetar basado en la imagen proporcionada.
